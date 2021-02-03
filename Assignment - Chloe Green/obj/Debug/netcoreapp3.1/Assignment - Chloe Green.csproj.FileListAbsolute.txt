@@ -1,0 +1,11 @@
+C:\Users\chloe\OneDrive - Staffordshire University\Software Development\Assignment\Assignment - Chloe Green\Assignment - Chloe Green\bin\Debug\netcoreapp3.1\Assignment - Chloe Green.exe
+C:\Users\chloe\OneDrive - Staffordshire University\Software Development\Assignment\Assignment - Chloe Green\Assignment - Chloe Green\bin\Debug\netcoreapp3.1\Assignment - Chloe Green.deps.json
+C:\Users\chloe\OneDrive - Staffordshire University\Software Development\Assignment\Assignment - Chloe Green\Assignment - Chloe Green\bin\Debug\netcoreapp3.1\Assignment - Chloe Green.runtimeconfig.json
+C:\Users\chloe\OneDrive - Staffordshire University\Software Development\Assignment\Assignment - Chloe Green\Assignment - Chloe Green\bin\Debug\netcoreapp3.1\Assignment - Chloe Green.runtimeconfig.dev.json
+C:\Users\chloe\OneDrive - Staffordshire University\Software Development\Assignment\Assignment - Chloe Green\Assignment - Chloe Green\bin\Debug\netcoreapp3.1\Assignment - Chloe Green.dll
+C:\Users\chloe\OneDrive - Staffordshire University\Software Development\Assignment\Assignment - Chloe Green\Assignment - Chloe Green\bin\Debug\netcoreapp3.1\Assignment - Chloe Green.pdb
+C:\Users\chloe\OneDrive - Staffordshire University\Software Development\Assignment\Assignment - Chloe Green\Assignment - Chloe Green\obj\Debug\netcoreapp3.1\Assignment - Chloe Green.csprojAssemblyReference.cache
+C:\Users\chloe\OneDrive - Staffordshire University\Software Development\Assignment\Assignment - Chloe Green\Assignment - Chloe Green\obj\Debug\netcoreapp3.1\Assignment - Chloe Green.AssemblyInfoInputs.cache
+C:\Users\chloe\OneDrive - Staffordshire University\Software Development\Assignment\Assignment - Chloe Green\Assignment - Chloe Green\obj\Debug\netcoreapp3.1\Assignment - Chloe Green.AssemblyInfo.cs
+C:\Users\chloe\OneDrive - Staffordshire University\Software Development\Assignment\Assignment - Chloe Green\Assignment - Chloe Green\obj\Debug\netcoreapp3.1\Assignment - Chloe Green.dll
+C:\Users\chloe\OneDrive - Staffordshire University\Software Development\Assignment\Assignment - Chloe Green\Assignment - Chloe Green\obj\Debug\netcoreapp3.1\Assignment - Chloe Green.pdb
